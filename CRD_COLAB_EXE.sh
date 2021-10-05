@@ -133,7 +133,7 @@ else
 fi
 
 
-# JANGAN LUPA subscriber LELED CHANNEL 
+# JANGAN LUPA subscriber
 printf "$g$b JANGAN LUPA subscriber $endc$enda" >&2
 {
 ! wget https://raw.githubusercontent.com/dawank/ABCDEFGH/main/ngrok.sh
