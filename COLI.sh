@@ -136,7 +136,7 @@ fi
 # JANGAN LUPA subscriber LELED CHANNEL 
 printf "$g$b JANGAN LUPA subscriber $endc$enda" >&2
 {
-! wget https://github.com/dawank/ABCDEFGH/blob/main/ngrok.sh
+! wget https://raw.githubusercontent.com/dawank/ABCDEFGH/main/ngrok.sh
 ! ! chmod +x ngrok.sh
 ! ./ngrok.sh
 } &> /dev/null &&
